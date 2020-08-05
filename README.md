@@ -11,6 +11,8 @@ Daniel H. Chitwood (`chitwoo9@msu.edu`) and Robert VanBuren (`vanbur31@msu.edu`)
 
 This Teaching Tool is intended to teach coding in Python from scratch from a plant biology perspective. **These educational materials assume no prior experience in plant biology or coding**. It is impossible to teach the breadth of introductory plant biology and data science in a few lessons. Rather, these materials selects specific examples in which mathematical and modeling approaches intersect with the biology of plants.
 
+These materials were originally developed for Horticulture 841: Foundation in Computational and Plant Science, a graduate course at Michigan State University. This course is part of the IMPACTS initiative, which stands for Integrated Training Model in Plant and Computational Sciences, which is an NSF-funded Research Traineeship (NRT) Program grant.
+
 Coding and plant biology can be intimidating to those with no prior experience. This course is designed to make these disciplines welcoming. **A diversity of perspectives is vital to combat the grandest challanges of our time and there is no room for gate-keeping and shaming: Your contributions to the comptuational plant science community are needed and precious.** These materials are meant as an introduction, for you to **develop *your* skills** to **pursue *your* intended impacts**. There are no wrong answers: use this material in whatever way is useful for you to further your education and career and to access the wealth of computational materials available in the plant community. Share this material with others in the same spirit and spread your knowledge.
 
 ***Above all, find joy in the way mathematics and modeling can reveal the underlying beauty of plants!***
