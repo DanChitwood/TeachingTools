@@ -17,7 +17,7 @@ Coding and plant biology can be intimidating to those with no prior experience. 
 
 These educational materials are in Jupyter notebooks, an interactive and reproducible coding environment that can be used for both learning and research.
 
-If you are new to Jupyter and Python, read the [download instructions](https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/blob/master/00_GettingStartedWithJupyter.ipynb) or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started.
+If you are new to Jupyter and Python, read the [download instructions](https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/blob/master/TeachingTools0_GettingStartedWithJupyter.ipynb) or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started.
 
 You can view the Jupyter notebooks on the nbviewer by clicking on the following link, [https://nbviewer.jupyter.org/github/DanChitwood/HRT841_2020/tree/master/](https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/tree/master/)
 
