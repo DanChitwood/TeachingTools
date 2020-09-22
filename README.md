@@ -19,9 +19,9 @@ Coding and plant biology can be intimidating to those with no prior experience. 
 
 These educational materials are in Jupyter notebooks, an interactive and reproducible coding environment that can be used for both learning and research.
 
-If you are new to Jupyter and Python, read the [download instructions](https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/blob/master/TeachingTools0_GettingStartedWithJupyter.ipynb) or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started.
+If you are new to Jupyter and Python, read the [download instructions](https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/blob/master/TeachingTools0_GettingStartedWithJupyter.ipynb) or watch the [video tutorial](https://www.youtube.com/watch?v=CDHRKQl_Pq8) on getting started. Downloading the Plants & Python notebooks from this github repository and then loading them on your computer to use with Python that you have downloaded is *the best way* to use these materials.
 
-You can view the Jupyter notebooks on the nbviewer by clicking on the following link, [https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/tree/master/](https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/tree/master/)
+You can view the Jupyter notebooks on the nbviewer by clicking on the following link, [https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/tree/master/](https://nbviewer.jupyter.org/github/DanChitwood/TeachingTools/tree/master/), but these notebooks are not interactive.
 
-You can ***interact*** with the Jupyter notebooks in an executable environment using mybinder, by clinking on the icon
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanChitwood/TeachingTools/master)
+You can ***interact*** with the Jupyter notebooks in an executable environment online using mybinder, by clinking on the icon
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanChitwood/TeachingTools/master). It might take some time for these notebooks to load or might not work as optimally as downloading the notebooks to your computer to use.
