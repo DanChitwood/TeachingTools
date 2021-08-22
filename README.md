@@ -1,5 +1,7 @@
 ![alt text](https://github.com/DanChitwood/PlantsAndPython/blob/master/plantsandpython.jpg)
 
+# The updated version of Plants & Python is now a Jupyter Book: [https://plantsandpython.github.io/PlantsAndPython/](https://plantsandpython.github.io/PlantsAndPython/)
+
 # Plants & Python 🌱🐍: coding from scratch in the plant sciences
 
 **Daniel H. Chitwood<sup>1,2</sup> and Robert VanBuren<sup>1</sup>**
